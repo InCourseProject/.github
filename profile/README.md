@@ -10,7 +10,7 @@
 날씨와 계절, 지역, 성별 맞춤 추천으로 완벽한 하루를 보내고, 나만의 좋은 코스도 다른 사람들과 공유할 수 있는 서비스를 제공합니다.
 
 배포 사이트: https://incourse.me/  
-GitHub: https://github.com/InCourseProject/in-course-be
+GitHub: https://github.com/InCourseProject
 
 :date: 제작 기간
 -------------   
@@ -54,7 +54,7 @@ GitHub: https://github.com/InCourseProject/in-course-be
 
 :blue_book: ERD
 -------------
-<img src="https://user-images.githubusercontent.com/110077343/194233246-3978d326-b55e-4cfc-89e4-17028565e967.png"></img><br/>  
+<img src="https://user-images.githubusercontent.com/110077343/198515914-17525309-4c2d-4425-8c0f-fbba0c9d3890.png"></img><br/>  
 
 :orange_book: API
 ------------- 
